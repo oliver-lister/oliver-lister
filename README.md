@@ -12,6 +12,7 @@
 ## 🔭 I’m Currently Working On
 - 🛒 A full-stack E-commerce portfolio project, learning Redux & Typescript for the Frontend, and Express.js, Node.js and MongoDB (+ many more) for the backend
 - 📝 Next.js Portfolio Website
+- Finishing Meta's Frontend Certificate on Coursera (last two modules).
 
 ## 🎯 Goals
 - 🎵 Find ways to integrate my love for music and music technology with code.
