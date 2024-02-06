@@ -1,7 +1,9 @@
-# 👋 Hey there, I'm Oliver!
+# Hey there, I'm Oliver! 👋 
+
+📍 Based in Sydney, Australia
 
 ## 🎧 Background
-- 🎶 Music Producer based in Sydney for the last two years
+- 🎶 Music & Post Producer for Advertising for the last two years -- _essentially a creative project manager!_
 - 🎛️ Audio Engineering and Music Production enthusiast
 
 ## 💻 Tech Stack
@@ -10,11 +12,12 @@
 - 📘Typescript
 
 ## 🔭 I’m Currently Working On
-- 🛒 A full-stack E-commerce portfolio project, learning Redux & Typescript for the Frontend, and Express.js, Node.js and MongoDB (+ many more) for the backend.
+- 🛒 A full-stack E-commerce portfolio project, learning Redux & Typescript for the Frontend, and Express.js, Node.js and MongoDB (+ many more) for the backend
+- 📝 Next.js Portfolio Website
 
 ## 🎯 Goals
-- 🚀 Continuous improvement and innovation
-- 🎵 Bridging the gap between music and technology
+- 🎵 Find ways to integrate my love for music and music technology with code.
+- 
 
 ## 🌐 Connect with Me
 - 📬 [Email](mailto:your.email@example.com)
