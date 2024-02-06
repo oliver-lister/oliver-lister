@@ -1,10 +1,8 @@
 # Hey there, I'm Oliver! 👋 
 
-📍 Based in Sydney, Australia
-
-## 🎧 Background
+##👨🏻 About Me
 - 🎶 Music & Post Producer for Advertising for the last two years -- _essentially a creative project manager!_
-- 🎛️ Audio Engineering and Music Production enthusiast
+- 🎛️ Audio Engineering and Music Production enthusiast -- _I understand detail, and importance of the final 5%_
 
 ## 💻 Tech Stack
 - 💡 HTML, CSS, JavaScript
@@ -17,13 +15,10 @@
 
 ## 🎯 Goals
 - 🎵 Find ways to integrate my love for music and music technology with code.
-- 
+- 👾 Improve my knowledge of backend languages, and learn C#.
 
 ## 🌐 Connect with Me
-- 📬 [Email](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourname/)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📷 [Instagram](https://www.instagram.com/yourusername/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oliverdukemusic/)
 
 ## 🤝 Let's Collaborate
 - 👀 Always open to new projects and collaborations
