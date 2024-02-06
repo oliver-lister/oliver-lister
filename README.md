@@ -1,6 +1,6 @@
 # Hey there, I'm Oliver! 👋 
 
-##👨🏻 About Me
+## 👨🏻 About Me
 - 🎶 Music & Post Producer for Advertising for the last two years -- _essentially a creative project manager!_
 - 🎛️ Audio Engineering and Music Production enthusiast -- _I understand detail, and importance of the final 5%_
 
