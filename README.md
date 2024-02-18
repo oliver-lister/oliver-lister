@@ -1,13 +1,13 @@
 # Hey there, I'm Oliver! 👋 
 
 ## 👨🏻 About Me
-- 🎶 Music & Post Producer for Advertising for the last two years -- _essentially a creative project manager!_
+- 🎶 Music & Sound Producer for Advertising -- _essentially a creative project manager!_
 - 🎛️ Audio Engineering and Music Production enthusiast -- _I understand detail, and importance of the final 5%_
 
 ## 💻 Tech Stack
 - 💡 HTML, CSS, JavaScript
 - ⚛️ React, Next.js
-- 📘Typescript
+- 📘 Typescript
 
 ## 🔭 I’m Currently Working On
 - 🛒 A full-stack E-commerce portfolio project, learning Redux & Typescript for the Frontend, and Express.js, Node.js and MongoDB (+ many more) for the backend
