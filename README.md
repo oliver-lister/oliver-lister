@@ -19,15 +19,18 @@
 ---
 <details>
 <summary><b>📘&nbsp;&nbsp;Languages</b></summary>
+<br>
 HTML, CSS, JavaScript, TypeScript
 </details>
 
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Frameworks&nbsp;and&nbsp;Tools</b></summary>
+<br>
 React.js, Next.js, Express.js, Node.js, Express.js, Redux Toolkit, Stripe API, Mantine, TailwindCSS Vitest, React Testing Library
 </details>
 
 <details>
 <summary><b>🧳&nbsp;&nbsp;Databases</b></summary>
+<br>
 MongoDB
 </details>
