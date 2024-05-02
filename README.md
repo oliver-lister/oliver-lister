@@ -1,13 +1,8 @@
-# Hey there, I'm Oliver! 👋 
+# Hey there, I'm Oliver! <a href="https://oliverlister.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ## 👨🏻 About Me
 - 🎶 Music & Sound Producer for Advertising -- _essentially a creative project manager!_
 - 🎛️ Audio Engineering and Music Production enthusiast -- _I understand detail, and importance of the final 5%_
-
-## 💻 Tech Stack
-- 💡 HTML, CSS, JavaScript
-- ⚛️ React, Next.js
-- 📘 Typescript
 
 ## 🔭 I’m Currently Working On
 - 🛒 A full-stack E-commerce portfolio project, learning Redux & Typescript for the Frontend, and Express.js, Node.js and MongoDB (+ many more) for the backend
@@ -16,13 +11,23 @@
 
 ## 🎯 Goals
 - 🎵 Find ways to integrate my love for music and music technology with code.
-- 👾 Improve my knowledge of backend languages, and learn C#.
+- 👾 Learn C# & Postgres SQL
 
 ## 🌐 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/oliverdukemusic/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oliver-lister/)
 
-## 🤝 Let's Collaborate
-- 👀 Always open to new projects and collaborations
-- 📢 Reach out if you have an exciting idea or just want to chat
+---
+<details>
+<summary><b>📘&nbsp;&nbsp;Languages</b></summary>
+HTML, CSS, JavaScript, TypeScript
+</details>
 
-Thanks for stopping by! Feel free to explore my repositories and let's create something awesome together! 🚀✨
+<details>
+<summary><b>🛠️&nbsp;&nbsp;Frameworks&nbsp;and&nbsp;Tools</b></summary>
+React.js, Next.js, Express.js, Node.js, Express.js, Redux Toolkit, Stripe API, Mantine, TailwindCSS Vitest, React Testing Library
+</details>
+
+<details>
+<summary><b>🧳&nbsp;&nbsp;Databases</b></summary>
+MongoDB
+</details>
