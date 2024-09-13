@@ -6,7 +6,7 @@ As a producer, I specialize in managing creative projects from concept to comple
 I’m all about clear communication, working well with teams, and making sure everything comes together to get the best results.
 
 ## 🔭 I’m Currently Working On
-- 📝 Next.js Portfolio Website
+- 📝 [Next.js Portfolio Website](https://github.com/oliver-lister/oliverlister_dev)
 
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/oliver-lister/)
