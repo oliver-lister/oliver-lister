@@ -1,7 +1,7 @@
 # Hey there, I'm Oliver! <a href="https://oliverlister.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ## 👨🏻 About Me
-As a producer, I specialize in managing creative projects from concept to completion, ensuring seamless execution and delivery. With a tertiary background and professional experience in both music and sound production and web development, I excel at balancing the technical and creative aspects of production, managing teams, budgets, and timelines to bring ideas to life.
+As a producer, I specialize in managing creative projects from concept to completion, ensuring seamless execution and delivery. With a tertiary background in audio engineering and professional experience in creative project management, I excel at balancing the technical and creative aspects of production, managing teams, budgets, and timelines to bring ideas to life.
 
 I’m all about clear communication, working well with teams, and making sure everything comes together to get the best results.
 
