@@ -1,7 +1,7 @@
 # Hey there, I'm Oliver! <a href="https://oliverlister.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ## 👨🏻 About Me
-- I'm a Full-Stack Software Engineer, with a focus on Typescript, React, Node.js and AWS.
+- I'm a software engineer, with a focus on Typescript, React, Node.js and AWS.
 - I have a tertiary education in audio engineering, and have produced music under a few different pseudonyms.
 
 ## 🌐 Connect with Me
